@@ -1,0 +1,12 @@
+{
+  "name": "sandooq-almaqbara-walshadar-netlify",
+  "version": "3.0.0",
+  "private": true,
+  "description": "صندوق المقبرة والشادر - Netlify multi-user PWA",
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest",
+    "@netlify/functions": "latest",
+    "@netlify/identity": "latest"
+  }
+}
